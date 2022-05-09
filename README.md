@@ -1,23 +1,35 @@
-# REPLACE WITH YOUR APP NAME
+# MINE APP
 
-This is the Final assessment template for CASA0014 - Please use this template and edit the relevant sections to personalise.
-This section has a short introduction to what the application is
-
-## Use this README File 
-
-Use this section to show us what your Mobile App is about.   Include a Screenshot to the App, link to the various frameworks you've used. Include your presentation video here that shows off your Mobile App.   Emojis are also fun to include 📱 😄
-
-Look at some other Flutter Apps online and see how they use there README File.  Good examples are:
-
-- https://github.com/miickel/flutter_particle_clock
-- https://github.com/Tarikul711/flutter-food-delivery-app-ui    
-- https://github.com/mohak1283/Instagram-Clone
+Description and outline of the app is provided in the below page:
+https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP/blob/main/README.md
 
 
-## Include A Section That Tells Developers How To Install The App
+## References and links:
+1. https://codesource.io/build-a-simple-login-page-and-dashboard-with-flutter/
+		
+2. https://instaflutter.com/flutter-tutorials/persistent-storage-flutter/#:~:text=The%20management%20and%20handling%20of%20such%20a%20state,was%20before%20the%20application%20has%20been%20shut%20off.
+			
+3. https://github.com/heremaps/here-sdk-examples/tree/master/examples/latest/explore/flutter/hello_map_app
+		
+4. https://github.com/flutter/samples/tree/master/place_tracker
+		
+5. https://betterprogramming.pub/flutter-how-to-save-objects-in-sharedpreferences-b7880d0ee2e4
+		
+6. https://stackoverflow.com/questions/41436639/does-shared-preferences-get-shared-across-user
 
-Include a section that gives intructions on how to install the app or run it in Flutter.  What versions of the plugins are you assuming?  Maybe define a licence
 
-##  Contact Details
+## Build instructions
+1. Download the android project from the below github link
+    https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP
+2. Set your HERE SDK credentials to
+    https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP/blob/main/MineProject/android/app/src/main/AndroidManifest.xml
+3. Unzip the HERE SDK plugin for flutter and copy inside plugins folder in your project. Name the folder 'here_sdk': mine_project/plugins/here_sdk.
+4. Install the below dependencies for this project:
+    shared_preferences: ^2.0.5
+    provider: ^6.0.2
+    geolocator: ^8.2.0
+5. Start an emulator or simulator and execute flutter run from the app's directory - or run the app from within your IDE.
 
-Having Contact Details is also good as it shows people how to get in contact with you if they'd like to contribute to the app. 
+
+
+
