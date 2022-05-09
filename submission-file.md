@@ -8,39 +8,34 @@ date: "10 Dec 2021"
 
 -->
 
-# Submission Guide
-
-You will need to edit this file, create a PDF using the instructions below, from this file.   Sign it digitally and upload to Moodle
-
-## How to create a PDF from Markdown
-When finished you should export to PDF using VSCode and MarkdownPDF Extension. Make sure you select no headers and no footers in the
-extension preferences before exporting to PDF.   
-
-Upload this PDF into Moodle for submission including a copy of your presentation slides.
-
 ## Link to GitHub Repository
 
-Flutter Application Name - MY APPLICATION NAME
-GitHub Repository - [https://github.com/ucl-casa-ce/casa0015-mobile-assessment](https://github.com/ucl-casa-ce/casa0015-mobile-assessment)
+Flutter Application Name - MINE_PROJECT
+GitHub Repository readMe- [https://github.com/ucl-casa-ce/casa0015-mobile-assessment](https://github.com/ucl-casa-ce/casa0015-mobile-assessment)
+Flutter code repository- [https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP/tree/main/MineProject](https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP/tree/main/MineProject)
 
 ## Introduction to Application
 
-A brief 200 word explanation of your application and it's use.  Below create a Bibliography to code, tutorial, or plugins you've used in the project. Use this guide
-for citation - [https://www.scribbr.co.uk/referencing/harvard-website-reference/](https://www.scribbr.co.uk/referencing/harvard-website-reference/)
+Family members want to be in close contact throughout the day especially when they stay in different corners of the world. In spite of there being multiple apps for chatting or sharing one's day to day activities, it is not targeted for a single family. It is often difficult to extract action items from a casual chat and important notes often get missed among the constant notifications of forwarded messages and casual chats. There are so many platforms to leave messages for a family members which makes it even more easy to miss important messages.
+Hence, an app is proposed that supports two of the most common reasons for contacting a family member. Where are you? Remember to do this!
+The proposed app maintains a list of the family members by storing their login information.
+A tracker section provides the last updated location of each family member, updating every time the app is accessed.
+The notes section allows members to leave focussed notes to each other. Once to-do list item is completed, the same can be deleted from the list with a single tap.
+The flutter examples for here_map(Heremaps, 2022) and Login page creation(Setiyo, 2020) were used along with tutorials for persistance storage(Kriss, 2020)
+Apps like 'My Family - Family Locator' / 'Famio: Connect With Family'(available on android play store) do something similar but have bad reviews because their objectives are not focussed.
 
 ## Biblography
 
-1. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s). <http://google.com>
-
-2. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s).  <http://google.com>
-
-----
+1. Heremaps, 2022. Here-SDK-examples/examples/latest/explore/flutter/hello_map_app at master · heremaps/here-SDK-examples. GitHub. Available at: https://github.com/heremaps/here-sdk-examples/tree/master/examples/latest/explore/flutter/hello_map_app [Accessed May 9, 2022]. 
+2. Setiyo, A., 2020. Build a simple login page and dashboard with flutter. CodeSource.io. Available at: https://codesource.io/build-a-simple-login-page-and-dashboard-with-flutter/ [Accessed May 9, 2022]. 
+3. Kriss, 2022. Persistent storage in flutter. Instaflutter. Available at: https://instaflutter.com/flutter-tutorials/persistent-storage-flutter/#:~:text=The%20management%20and%20handling%20of%20such%20a%20state,was%20before%20the%20application%20has%20been%20shut%20off. [Accessed May 9, 2022]. 
 
 ## Declaration of Authorship
 
 We, AUTHORS NAME HERE, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
 
-Digitally Sign with Your name Here
 
-ASSESSMENT DATE
+Abhipsa kar
+
+18th May, 2022
