@@ -21,7 +21,9 @@ Hence, an app is proposed that supports two of the most common reasons for conta
 The proposed app maintains a list of the family members by storing their login information.
 A tracker section provides the last updated location of each family member, updating every time the app is accessed.
 The notes section allows members to leave focussed notes to each other. Once to-do list item is completed, the same can be deleted from the list with a single tap.
-The flutter examples for here_map(Heremaps, 2022) and Login page creation(Setiyo, 2020) were used along with tutorials for persistance storage(Kriss, 2020)
+The flutter examples for here_map(Heremaps, 2022) and Login page creation(Setiyo, 2020) were used along with tutorials for persistance storage(Kriss, 2020).
+
+
 Apps like 'My Family - Family Locator' / 'Famio: Connect With Family'(available on android play store) do something similar but have bad reviews because their objectives are not focussed.
 
 ## Biblography
