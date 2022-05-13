@@ -11,7 +11,7 @@ date: "10 Dec 2021"
 ## Link to GitHub Repository
 
 Flutter Application Name - MINE_PROJECT
-Flutter code repository- [https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP/tree/main/MineProject](https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP/tree/main/MineProject)
+Flutter code repository- [https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP](https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP)
 
 ## Introduction to Application
 
