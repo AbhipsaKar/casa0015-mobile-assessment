@@ -8,9 +8,9 @@ date: "13 May 2022"
 
 -->
 
-## Link to GitHub Repository
 
-Flutter Application Name - MINE_PROJECT
+
+## Flutter Application Name - MINE_PROJECT
 Flutter code repository- [https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP](https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP)
 
 ## Introduction to Application
@@ -32,10 +32,10 @@ Apps like 'My Family - Family Locator' / 'Famio: Connect With Family'(available 
 
 ## Declaration of Authorship
 
-We, AUTHORS NAME HERE, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
+I, Abhipsa kar, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
 
-
+<br/><br/>
 Abhipsa kar
 
 18th May, 2022
