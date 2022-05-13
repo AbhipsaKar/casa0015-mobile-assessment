@@ -71,14 +71,15 @@ Notes workflow:
 ## Build instructions
 1. Download the android project from the below github link
     https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP
-2. Set your HERE SDK credentials to
+2. Rename project to mine_project.
+3. Set your HERE SDK credentials to
     https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP/blob/main/MineProject/android/app/src/main/AndroidManifest.xml
-3. Unzip the HERE SDK plugin for flutter and copy inside plugins folder in your project. Name the folder 'here_sdk': mine_project/plugins/here_sdk.
-4. Install the below dependencies for this project:
+4. Unzip the HERE SDK plugin for flutter and copy inside plugins folder in your project. Name the folder 'here_sdk': mine_project/plugins/here_sdk.
+5. Install the below dependencies for this project:
     shared_preferences: ^2.0.5
     provider: ^6.0.2
     geolocator: ^8.2.0
-5. Start an emulator or simulator and execute flutter run from the app's directory - or run the app from within your IDE.
+6. Start an emulator or simulator and execute flutter run from the app's directory - or run the app from within your IDE.
 
 
 
