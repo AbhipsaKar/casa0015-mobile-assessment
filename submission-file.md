@@ -11,18 +11,16 @@ date: "10 Dec 2021"
 ## Link to GitHub Repository
 
 Flutter Application Name - MINE_PROJECT
-GitHub Repository readMe- [https://github.com/ucl-casa-ce/casa0015-mobile-assessment](https://github.com/ucl-casa-ce/casa0015-mobile-assessment)
 Flutter code repository- [https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP/tree/main/MineProject](https://github.com/AbhipsaKar/CASA0015-Mine-AndroidAPP/tree/main/MineProject)
 
 ## Introduction to Application
 
-Family members want to be in close contact throughout the day especially when they stay in different corners of the world. In spite of there being multiple apps for chatting or sharing one's day to day activities, it is not targeted for a single family. It is often difficult to extract action items from a casual chat and important notes often get missed among the constant notifications of forwarded messages and casual chats. There are so many platforms to leave messages for a family members which makes it even more easy to miss important messages.
-Hence, an app is proposed that supports two of the most common reasons for contacting a family member. Where are you? Remember to do this!
+Family members want to be in close contact throughout the day even when are in different corners of the world. Despite multiple apps for chatting or sharing one's day to day activities, it is often difficult to extract action items from a casual chat and important notes often get missed among the constant notifications of forwarded messages and casual chats. There are so many platforms to leave messages for a family members which makes it even more easy to miss important messages.
+Hence, an app is proposed that supports two of the most common reasons for contacting a family member. 'Where are you?' and 'Remember to do this!'
 The proposed app maintains a list of the family members by storing their login information.
 A tracker section provides the last updated location of each family member, updating every time the app is accessed.
 The notes section allows members to leave focussed notes to each other. Once to-do list item is completed, the same can be deleted from the list with a single tap.
 The flutter examples for here_map(Heremaps, 2022) and Login page creation(Setiyo, 2020) were used along with tutorials for persistance storage(Kriss, 2020).
-
 
 Apps like 'My Family - Family Locator' / 'Famio: Connect With Family'(available on android play store) do something similar but have bad reviews because their objectives are not focussed.
 
